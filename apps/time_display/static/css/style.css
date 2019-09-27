@@ -1,0 +1,30 @@
+p {
+    font-family: sans-serif,'Times New Roman', Times;
+}
+
+.container {
+    text-align: center;
+    padding:  40px 40px;
+}
+
+.container > div {
+    margin:  0 auto;
+    text-align: center;
+}
+
+.excerpt-layout {
+    border: 2px solid black;
+    padding: 1px 10px 5px 5px;
+    width: 25%;
+}
+
+.time-display-layout {
+    border: 2px solid black;
+    margin: 10px 0 0 0;
+    padding: 1px 10px 5px 5px;
+    width: 50%;
+}
+
+.space-layout-fix {
+    margin-top: 10px !important; 
+}
